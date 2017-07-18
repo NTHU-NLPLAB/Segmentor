@@ -3,7 +3,7 @@
 ## 安裝
 * 下載程式碼：
 
-	```$ git clone https://github.com/dspp779/Segmentor```
+	```$ git clone https://github.com/NTHU-NLPLAB/Segmentor```
     
 * 下載分詞及詞性標記模型：
 	* 下載處：

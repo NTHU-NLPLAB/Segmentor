@@ -364,8 +364,8 @@ class Segmentor(object):
 if __name__ == "__main__":
     a = Segmentor()
     doc = (
-        "<strong>思想引發行動</strong>(Sow a thought and you reap an act.)，\n"
-        "[xxx]行動漸成習慣</xxx>(Sow an act and you reap a habit)，\n"
+        "思想引發行動(Sow a thought and you reap an act.)，\n"
+        "行動漸成習慣(Sow an act and you reap a habit)，\n"
         "習慣塑造品格(Sow a habit and you reap a character.)，\n"
         "品格決定命運(Sow a character and you reap a destiny.)。\n"
     )
